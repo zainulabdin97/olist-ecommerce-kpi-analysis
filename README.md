@@ -79,9 +79,11 @@ Below are deeper analytical takeaways from further exploration:
 Below are visual summaries that support deeper business understanding:
 
 ![Delivery vs Review](reports/visualizations/late_vs_on_time_deliveries.png)
+
 *Delivery delays are strongly associated with lower customer satisfaction ratings.*
 
 ![Average Payment Value](reports/visualizations/Average_payment_value.png)
+
 *Payment behavior context to support the KPI finding that credit cards dominate revenue.*
 
 

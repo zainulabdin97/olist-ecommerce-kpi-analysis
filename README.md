@@ -59,6 +59,16 @@ The analysis follows an end-to-end analytics workflow: SQL for data extraction, 
 
 ---
 
+## Additional Analytical Insights
+
+Below are deeper analytical takeaways from further exploration:
+
+- Sales tend to peak during holiday periods and promotional windows.
+- Delivery delays show correlation with lower customer review scores.
+- Certain product categories with slower sales also have longer delivery times.
+
+---
+
 ## Business Impact
 Insights from this analysis can support:
 - Regional marketing optimization

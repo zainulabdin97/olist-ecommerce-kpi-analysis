@@ -66,6 +66,10 @@ Below are deeper analytical takeaways from further exploration:
 - Sales tend to peak during holiday periods and promotional windows.
 - Delivery delays show correlation with lower customer review scores.
 - Certain product categories with slower sales also have longer delivery times.
+- Sales exhibit seasonal peaks and promotional boosts, indicating demand cycles that can inform marketing timing.
+- Average delivery time is 10–12 days, with delays strongly associated with lower review scores — a key operational insight.
+- Categories such as Housewares, Health & Beauty, and Furniture dominate revenue, while niche categories have slower sales and longer deliveries.
+- Most 5-star reviews relate to timely deliveries; 1- and 2-star reviews often cite late delivery experiences.
 
 ---
 

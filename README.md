@@ -1,9 +1,22 @@
-# Olist E-Commerce KPI Analysis (SQL Project)
+# Olist E-Commerce KPI Analysis (SQL → Python → Power BI)
 
 ## Overview
 This project analyzes real-world e-commerce data from the Brazilian Olist marketplace to uncover revenue drivers, customer behavior, payment preferences, and retention patterns.
 
-The analysis focuses on translating raw transactional data into actionable business insights using SQL.
+The analysis follows an end-to-end analytics workflow: SQL for data extraction, Python for analysis and segmentation, and Power BI for executive-level dashboarding.
+
+---
+
+---
+
+## Dashboard Preview
+
+![Olist KPI Dashboard](powerbi/dashboard_full.png)
+
+### Key Insights from Dashboard
+- **Revenue is highly concentrated:** Top markets (384 cities) generate **79%** of total revenue.
+- **Payment dependency:** Credit cards account for **78%** of platform revenue.
+- **Clear market segmentation:** Cities naturally cluster into Top, Mid, and Long Tail segments, enabling focused growth strategies.
 
 ---
 

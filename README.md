@@ -37,6 +37,7 @@ The analysis follows an end-to-end analytics workflow: SQL for data extraction, 
 - SQL (SQLite)
 - Python (Pandas)
 - Google Colab
+- Matplotlib / Seaborn
 
 ---
 
@@ -72,6 +73,17 @@ Below are deeper analytical takeaways from further exploration:
 - Most 5-star reviews relate to timely deliveries; 1- and 2-star reviews often cite late delivery experiences.
 
 ---
+
+## Additional Visual Analytics
+
+Below are visual summaries that support deeper business understanding:
+
+![Delivery vs Review](reports/delivery_vs_review.png)
+Delivery delays strongly correlate with lower satisfaction ratings.
+
+![Top Categories Revenue](reports/top_categories_revenue.png)
+Fastest moving product categories driving revenue.
+
 
 ## Business Impact
 Insights from this analysis can support:

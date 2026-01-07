@@ -7,8 +7,6 @@ The analysis follows an end-to-end analytics workflow: SQL for data extraction, 
 
 ---
 
----
-
 ## Dashboard Preview
 
 ![Olist KPI Dashboard](powerbi/dashboard_full.png)
